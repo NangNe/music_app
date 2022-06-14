@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951576703500",
+    "firebase_url": "https://onlinemusicplayerwithrestapi.firebaseio.com",
+    "project_id": "onlinemusicplayerwithrestapi",
+    "storage_bucket": "onlinemusicplayerwithrestapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951576703500:android:961e6ae37acfb3742a7429",
+        "android_client_info": {
+          "package_name": "com.sub.andro.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951576703500-ucf0ne1if3e6ej73hsb4f42rp75264ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeoWnGsEz9mV75id7WTBpalku6wgDRFIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951576703500-ucf0ne1if3e6ej73hsb4f42rp75264ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
